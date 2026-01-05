@@ -55,5 +55,10 @@ The project demonstrates the use of basic Python programming concepts.
 ---
 
 ## Output Screenshots
+<img width="1920" height="1080" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/d2e9ec6c-d86c-497f-ac89-8c096bc074e3" />
+<img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/6b24053d-c3a7-4670-bd27-959a44e3cd13" />
+<img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/8b3f3f89-3d8b-4ae0-b243-c371912a3ab2" />
+<img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/beca9f4d-c344-406f-994c-a8cdd7621ae6" />
+<img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/c3db2b2a-f43d-45e3-a47d-40faf01a6b26" />
 
 Screenshots showing execution of the program are attached in the project folder.
